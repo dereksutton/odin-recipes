@@ -1,0 +1,1 @@
+In this project, I'll be creating a simple website for recipes. I will add to this README at the conclusion of this project to reflect on what I've learned.
